@@ -1,0 +1,1 @@
+../53_outname/outname.c
